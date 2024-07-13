@@ -30,3 +30,15 @@ console.log(typeof valueInnumber)
 let loggedIn = 1 
 let booleanIsloggedIn = Boolean(isloggedIn)
 console.log(typeof booleanIsloggedIn);   
+
+
+/** operation **/
+let value = 8 
+let negvalue= -value
+console.log(negvalue)
+console.log("1"+ 2 + 3 )
+console.log(1+2+6)
+console.log((12+66)+55)
+console.log() 
+console.log()
+console.log()
