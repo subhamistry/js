@@ -33,7 +33,7 @@ console.log(typeof booleanIsloggedIn);
 
 
 /** operation **/
-let value = 8 
+/**let value = 8 
 let negvalue= -value
 console.log(negvalue)
 console.log("1"+ 2 + 3 )
@@ -41,4 +41,23 @@ console.log(1+2+6)
 console.log((12+66)+55)
 console.log() 
 console.log()
-console.log()
+console.log() 
+let num1 , num2 , num3; 
+
+let x = 3;
+const y = x++;
+
+console.log(`x:${x}, y:${y}`);
+// Expected output: "x:4, y:3"
+
+let a = 3;
+const b = ++a;
+
+console.log(`a:${a}, b:${b}`);
+// Expected output: "a:4, b:4"
+
+console.log(2==2);
+console.log("4"<3); 
+console.log(6==3*2); 
+**/
+
