@@ -8,5 +8,5 @@ console.log(myarr);
 
 
 myarr.unshift(9)
-
+myarr.shift()
 console.log(myarr);
